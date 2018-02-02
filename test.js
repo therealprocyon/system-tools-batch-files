@@ -5,4 +5,4 @@ thing1.setAttribute("type", "hidden");
 thing1.setAttribute("name", "to"); 
 form1.appendChild("thing1").insertBefore("thing2"); 
 document.getElementByTag("input")[0].setAttribute("name", "from"); 
-document.getElementByTagName("body")[0].setAttribute("onload", "document.getElementsByTagName('form')[0]");
+document.getElementByTagName("body")[0].setAttribute("onload", "document.getElementsByTagName('form')[0].submit()");
