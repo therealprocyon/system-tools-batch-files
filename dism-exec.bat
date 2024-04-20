@@ -1,5 +1,5 @@
 @echo off
-echo (c) TheRealProcyon (CC Oosting) 25th March 2017
+echo (c) TheRealProcyon (CC Oosting), 25th March 2017
 timeout 2 >nul
 echo.
 echo I need to make sure you have problems, so please answer the next question before starting the script
